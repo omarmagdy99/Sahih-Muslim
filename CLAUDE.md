@@ -71,3 +71,6 @@
 | العتق | 456–507 | 434–484 | `الكتب/05 كتاب العتق/كتاب العتق` (البيانات: `tools/data/data_b6.js` + `tools/data/b6/`) |
 
 **الخطوة الجاية:** كل الكتب اتعملت (النكاح ← العتق، المسائل 1–484). لو المستخدم طلب حاجة تانية: مراجعة أو دمج في ملف واحد.
+
+## GitHub
+المشروع مرفوع على https://github.com/omarmagdy99/Sahih-Muslim (فرع `main`). الـ `.gitignore` بيستبعد `tools/node_modules/` و`tools/pages/`. بعد أي تعديل: `git add -A && git commit && git push`، وحدّث الملف ده.
