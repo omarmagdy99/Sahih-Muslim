@@ -7,5 +7,6 @@ module.exports = {
   startAt: 485,
   sections: [
     ...require('./b7/s1'),
+    ...require('./b7/s2'),
   ],
 };
