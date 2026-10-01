@@ -7,5 +7,6 @@ module.exports = {
   startAt: 733, // بعد آخر مسألة في الطهارة (732)
   sections: [
     ...require('./b8/s1'),
+    ...require('./b8/s2'),
   ],
 };
