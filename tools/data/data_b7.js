@@ -8,5 +8,6 @@ module.exports = {
   sections: [
     ...require('./b7/s1'),
     ...require('./b7/s2'),
+    ...require('./b7/s3'),
   ],
 };
