@@ -3,5 +3,5 @@ module.exports = {
   subtitle: `كتاب الصلاة — كاملًا (من تفريغ كتاب الصلاة)`,
   header: `ترجيحات الشيخ ياسر — كتاب الصلاة`,
   startAt: 933,
-  sections: [ ...require('./b9/s1a') ],
+  sections: [ ...require('./b9/s1a'), ...require('./b9/s2') ],
 };
