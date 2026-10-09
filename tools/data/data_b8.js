@@ -7,6 +7,7 @@ const files = fs.readdirSync(dir).filter((f) => /^c\d+\.js$/.test(f)).sort();
 const merged = [];
 for (const f of files) {
   for (const sec of require(path.join(dir, f))) {
+    if (!sec.items.filter(Boolean).length) continue;
     const last = merged[merged.length - 1];
     if (last && last.base === sec.title) last.items.push(...sec.items.filter(Boolean));
     else merged.push({ base: sec.title, items: sec.items.filter(Boolean) });
