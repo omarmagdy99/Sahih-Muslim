@@ -20,7 +20,7 @@ const sections = merged.map((m) => {
 
 module.exports = {
   title: `ترجيحات الشيخ ياسر في شرح صحيح مسلم بشرح النووي`,
-  subtitle: `كتاب البيوع`,
+  subtitle: `كتاب البيوع — كاملًا (ص1–105 من التفريغ)`,
   header: `ترجيحات الشيخ ياسر — كتاب البيوع`,
   startAt: 1346,
   sections,
