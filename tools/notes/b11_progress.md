@@ -12,3 +12,6 @@
 - p99: fn1 yellow "(س/ فهل في زمنه كانوا يُصلون في المسجد أم العكس؟)" excluded
 
 - p102: fn3 yellow "فتاوى (1/07 د1) العيدين" excluded
+
+- p108: fn1 yellow "(س/ التكبير عقب الصلوات الدليل عليه؟)" excluded
+- p106: yellow phrase "وبثبوته كتاباً عن النبي ﷺ" excluded
