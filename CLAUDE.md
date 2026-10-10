@@ -86,4 +86,4 @@
 ## GitHub
 المشروع مرفوع على https://github.com/omarmagdy99/Sahih-Muslim (فرع `main`). الـ `.gitignore` بيستبعد `tools/node_modules/` و`tools/pages/`. بعد أي تعديل: `git add -A && git commit && git push`، وحدّث الملف ده.
 
-**شغل شغال (الجمعة وما بعدها):** البيانات `tools/data/data_b11.js` + `tools/data/b11/c01..c27.js` متكتبة لحد ص154 من 315 (الجمعة ثم العيدين). نقطة الاستكمال: ص155 (تكملة باب ما عُرض على النبي في صلاة الكسوف). التفاصيل في `tools/notes/b11_progress.md`. الترقيم يبدأ من 1704. المطلوب docx فقط (PDF مش مهم دلوقتي).
+**شغل شغال (الجمعة وما بعدها):** البيانات `tools/data/data_b11.js` + `tools/data/b11/c01..c28.js` متكتبة لحد ص160 من 315 (الجمعة ثم العيدين). نقطة الاستكمال: ص161. التفاصيل في `tools/notes/b11_progress.md`. الترقيم يبدأ من 1704. المطلوب docx فقط (PDF مش مهم دلوقتي).
