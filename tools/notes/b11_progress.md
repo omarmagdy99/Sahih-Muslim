@@ -37,3 +37,5 @@
 - p223: fn1 yellow "(كيف نغسل فوق ثياب المهنة)" excluded
 - p224: fn5 yellow "(وإعادة الغسلات)" excluded
 - p225: fn2 yellow "(هل لهذه العلة وجه)" excluded; fn3 yellow quotes "وقال أبو داود: هذا منسوخ" + "وقال الألباني في الإرواء 144: الأمر فيه للاستحباب..." excluded (مظللة كلها)
+
+- p235: fn1 yellow "فتاوى (ش٤/١:٠٠:٠١د)" excluded
