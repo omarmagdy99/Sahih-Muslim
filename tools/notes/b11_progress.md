@@ -52,3 +52,7 @@
 - p291: fn yellow "(من ماذا)" excluded (no Sheikh text on p291 beyond it)
 
 - p293: fn4 fatwa question "هل مسألة الجهر بالدعاء في صلاة الجنازة" yellow prefix excluded (kept the answer as item "الدعاء الجماعي"); fn3 yellow "هل مسألة ..." same
+
+- p313: fn2 yellow "(ولكن العلة موجودة)" excluded
+- p314–315: fn6 yellow clause "فكونه ترك الصلاة، فربما ترك الصلاة في وقت الانصراف من المعركة فقط" excluded
+- p315: fn2 yellow "الفتاوى: (٠٨:١د/٩ش)" excluded
