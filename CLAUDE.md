@@ -88,4 +88,4 @@
 ## GitHub
 المشروع مرفوع على https://github.com/omarmagdy99/Sahih-Muslim (فرع `main`). الـ `.gitignore` بيستبعد `tools/node_modules/` و`tools/pages/`. بعد أي تعديل: `git add -A && git commit && git push`، وحدّث الملف ده.
 
-**شغل شغال (الصلاة):** `tools/data/data_b12.js` + `tools/data/b12/cNN.js` (c01..c50 تغطي ص5–315 من 330)؛ المصدر `المصادر/3-كتاب الصلاة_N (2).pdf`؛ الملخص `tools/notes/b12_summary.txt`؛ التقدم في `tools/notes/b12_progress.md`. الترقيم من 1965. نقطة الاستكمال: ص316 (باب دنو المصلي من السترة بدأ ص315) (ص194–198 فاضية وغلاف الجزء الثاني). docx فقط.
+**شغل شغال (الصلاة):** `tools/data/data_b12.js` + `tools/data/b12/cNN.js` (c01..c51 تغطي ص5–321 من 330)؛ المصدر `المصادر/3-كتاب الصلاة_N (2).pdf`؛ الملخص `tools/notes/b12_summary.txt`؛ التقدم في `tools/notes/b12_progress.md`. الترقيم من 1965. نقطة الاستكمال: ص322 (باب الاعتراض بين يدي المصلي بدأ ص321) (ص194–198 فاضية وغلاف الجزء الثاني). docx فقط.
