@@ -46,3 +46,7 @@
 - p267: fn1 yellow "(كيف يكون على سبيل الاستحباب ثم تقول إلا إذا اضطر ، ولا ينبغي؟؟)" excluded
 
 - p280: fn2 yellow "فتاوى (٧ش/٥٤٧د)" excluded
+
+- p287: fn yellow "(٢٣٨ش)" excluded
+- p289: fn3 yellow "(ما الفرق بين التجصيص والبناء)" excluded; matn word "مسبّلة" highlighted (in Nawawi text — kept as matn)
+- p291: fn yellow "(من ماذا)" excluded (no Sheikh text on p291 beyond it)
