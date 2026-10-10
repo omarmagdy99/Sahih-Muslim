@@ -86,4 +86,4 @@
 ## GitHub
 المشروع مرفوع على https://github.com/omarmagdy99/Sahih-Muslim (فرع `main`). الـ `.gitignore` بيستبعد `tools/node_modules/` و`tools/pages/`. بعد أي تعديل: `git add -A && git commit && git push`، وحدّث الملف ده.
 
-**شغل شغال (الجمعة وما بعدها):** البيانات `tools/data/data_b11.js` + `tools/data/b11/c01..c34.js` متكتبة لحد ص195 من 315 (الجمعة ثم العيدين). نقطة الاستكمال: ص195 (باب في عيادة المرضى). التفاصيل في `tools/notes/b11_progress.md`. الترقيم يبدأ من 1704. المطلوب docx فقط (PDF مش مهم دلوقتي).
+**شغل شغال (الجمعة وما بعدها):** البيانات `tools/data/data_b11.js` + `tools/data/b11/c01..c35.js` متكتبة لحد ص201 من 315 (الجمعة ثم العيدين). نقطة الاستكمال: ص201 (باب الميت يعذب ببكاء أهله، تكملة). التفاصيل في `tools/notes/b11_progress.md`. الترقيم يبدأ من 1704. المطلوب docx فقط (PDF مش مهم دلوقتي).
