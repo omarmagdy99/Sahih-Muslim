@@ -31,3 +31,5 @@
 - p183: fn2 yellow "فتاوى (ش/1 د 30)" excluded
 
 - p199: fn1 yellow "الفتاوى: (2/58)" (حاشية باب «لم تجد على بابه بوابين») excluded
+
+- p216: fn2 yellow "الفتاوى (ش3/د1:02)" excluded
