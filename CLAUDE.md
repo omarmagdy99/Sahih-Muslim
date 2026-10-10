@@ -88,4 +88,4 @@
 ## GitHub
 المشروع مرفوع على https://github.com/omarmagdy99/Sahih-Muslim (فرع `main`). الـ `.gitignore` بيستبعد `tools/node_modules/` و`tools/pages/`. بعد أي تعديل: `git add -A && git commit && git push`، وحدّث الملف ده.
 
-**شغل شغال (الصلاة):** `tools/data/data_b12.js` + `tools/data/b12/cNN.js` (c01..c46 تغطي ص5–292 من 330)؛ المصدر `المصادر/3-كتاب الصلاة_N (2).pdf`؛ الملخص `tools/notes/b12_summary.txt`؛ التقدم في `tools/notes/b12_progress.md`. الترقيم من 1965. نقطة الاستكمال: ص293 (فيه تكملة هامش ص292 الأخير: «فتلك إحدى عشرة ركعة…» في c46 آخر مسألة) (ص194–198 فاضية وغلاف الجزء الثاني). docx فقط.
+**شغل شغال (الصلاة):** `tools/data/data_b12.js` + `tools/data/b12/cNN.js` (c01..c47 تغطي ص5–297 من 330 (ص298 بدأ فيها باب سترة المصلي ولم يتسجل بعد))؛ المصدر `المصادر/3-كتاب الصلاة_N (2).pdf`؛ الملخص `tools/notes/b12_summary.txt`؛ التقدم في `tools/notes/b12_progress.md`. الترقيم من 1965. نقطة الاستكمال: ص298 (باب سترة المصلي) (ص194–198 فاضية وغلاف الجزء الثاني). docx فقط.
