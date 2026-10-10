@@ -10,3 +10,5 @@
 - p84: footnote ref "فتاوى (5/150د)" yellow excluded
 
 - p99: fn1 yellow "(س/ فهل في زمنه كانوا يُصلون في المسجد أم العكس؟)" excluded
+
+- p102: fn3 yellow "فتاوى (1/07 د1) العيدين" excluded
