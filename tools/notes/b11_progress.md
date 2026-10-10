@@ -41,3 +41,6 @@
 - p235: fn1 yellow "فتاوى (ش٤/١:٠٠:٠١د)" excluded
 
 - p252: fn4 yellow "الفتاوى (٥ش/٥٠د)" excluded
+
+- p266: fn1 yellow "الفتاوى (٦ش/٥١:٥١د)" excluded
+- p267: fn1 yellow "(كيف يكون على سبيل الاستحباب ثم تقول إلا إذا اضطر ، ولا ينبغي؟؟)" excluded
