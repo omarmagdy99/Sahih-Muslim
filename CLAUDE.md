@@ -88,4 +88,4 @@
 ## GitHub
 المشروع مرفوع على https://github.com/omarmagdy99/Sahih-Muslim (فرع `main`). الـ `.gitignore` بيستبعد `tools/node_modules/` و`tools/pages/`. بعد أي تعديل: `git add -A && git commit && git push`، وحدّث الملف ده.
 
-**شغل شغال (الصلاة):** `tools/data/data_b12.js` + `tools/data/b12/cNN.js` (c01..c21 تغطي ص5–142 من 330)؛ المصدر `المصادر/3-كتاب الصلاة_N (2).pdf`؛ الملخص `tools/notes/b12_summary.txt`؛ التقدم في `tools/notes/b12_progress.md`. الترقيم من 1965. نقطة الاستكمال: ص143. docx فقط.
+**شغل شغال (الصلاة):** `tools/data/data_b12.js` + `tools/data/b12/cNN.js` (c01..c22 تغطي ص5–148 من 330)؛ المصدر `المصادر/3-كتاب الصلاة_N (2).pdf`؛ الملخص `tools/notes/b12_summary.txt`؛ التقدم في `tools/notes/b12_progress.md`. الترقيم من 1965. نقطة الاستكمال: ص149. docx فقط.
