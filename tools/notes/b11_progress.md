@@ -50,3 +50,5 @@
 - p287: fn yellow "(٢٣٨ش)" excluded
 - p289: fn3 yellow "(ما الفرق بين التجصيص والبناء)" excluded; matn word "مسبّلة" highlighted (in Nawawi text — kept as matn)
 - p291: fn yellow "(من ماذا)" excluded (no Sheikh text on p291 beyond it)
+
+- p293: fn4 fatwa question "هل مسألة الجهر بالدعاء في صلاة الجنازة" yellow prefix excluded (kept the answer as item "الدعاء الجماعي"); fn3 yellow "هل مسألة ..." same
