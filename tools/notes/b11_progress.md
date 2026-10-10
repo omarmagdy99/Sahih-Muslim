@@ -27,3 +27,5 @@
 - p150: fn4 yellow "الفتاوى (ش/1:14:29 د)" excluded
 
 - p168: fn2 yellow "فتاوى (من الدقيقة 1:00 إلى 1:25)" excluded
+
+- p183: fn2 yellow "فتاوى (ش/1 د 30)" excluded
